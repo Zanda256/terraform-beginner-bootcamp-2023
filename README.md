@@ -2,7 +2,7 @@
 
 ## Semantic Versioning :mage:
 
-This project is goig to use semantic versi9oning for its tagging.
+This project is going to use semantic versioning for its tagging.
 [semver.org](https://semver.org/)
 
 The general format: 
